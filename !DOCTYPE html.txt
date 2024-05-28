@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ahmed Al Rahl, PhD</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; }
+        header { background: #333; color: #fff; padding: 1rem 0; text-align: center; }
+        nav { display: flex; justify-content: center; background: #444; }
+        nav a { color: #fff; padding: 1rem; text-decoration: none; }
+        nav a:hover { background: #555; }
+        section { padding: 2rem; }
+        footer { text-align: center; padding: 1rem 0; background: #333; color: #fff; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Ahmed Al Rahl, PhD</h1>
+        <p>Strategic Initiatives and Project Management Specialist</p>
+    </header>
+    <nav>
+        <a href="#about">About</a>
+        <a href="#experience">Experience</a>
+        <a href="#publications">Publications</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>
+            I am a Strategic Initiatives and Project Management Specialist based in Dubai, United Arab Emirates. With extensive experience in strategic management, project leadership, and data-driven decision-making, I have led complex projects within government infrastructure, organizational development, and data analytics. I am a fellow member of the Institute of Leadership and Management and the Project Management Institute.
+        </p>
+        <p>
+            Throughout my career, I have successfully collaborated with leading consultancies such as PWC, KPMG, McKinsey, Emerging Communication, and BCG. My core competencies include strategic planning, project management, stakeholder engagement, data analytics, and monitoring and evaluation.
+        </p>
+    </section>
+    <section id="experience">
+        <h2>Professional Experience</h2>
+        <h3>Ejaaz for Management Studies and Consultancy, Abu Dhabi</h3>
+        <p><strong>Director of Strategic Initiatives and Project Management</strong> (Aug 2021 - Present)</p>
+        <ul>
+            <li>Led cross-sector consultancy collaborations with PWC, KPMG, McKinsey, and others to drive organizational growth and innovation.</li>
+            <li>Developed strategic KPIs and monitoring frameworks to enhance performance measurement and efficiency.</li>
+            <li>Facilitated advanced stakeholder workshops and integrated data analytics into strategic planning processes.</li>
+        </ul>
+        <h3>Higher Colleges of Technology (HCT), Abu Dhabi</h3>
+        <p><strong>Senior Manager - Institutional Research</strong> (2015 - 2021)</p>
+        <ul>
+            <li>Implemented strategic project frameworks and ensured compliance with industry standards and regulatory requirements.</li>
+            <li>Advanced data management and analytics through the use of advanced tools like Tableau and Power BI.</li>
+            <li>Developed KPIs and monitoring systems to track project progress and enhance organizational intelligence.</li>
+        </ul>
+        <p><strong>School Principal & General Manager</strong> - Al Resalah International School of Science, Sharjah (2014 - 2015)</p>
+        <ul>
+            <li>Established comprehensive policies and procedures, fostering an inclusive and collaborative school environment.</li>
+            <li>Managed instructional programs, extracurricular activities, and disciplinary systems to achieve organizational objectives.</li>
+            <li>Implemented emergency procedures to ensure the safety and well-being of students and staff.</li>
+        </ul>
+        <p><strong>Vice-Principal</strong> - Institute of Applied Technology, Dubai (2006 - 2014)</p>
+        <ul>
+            <li>Supported daily operations focusing on academic affairs and instructional staff development.</li>
+            <li>Conducted detailed analysis to identify process improvement opportunities and enhance teacher performance.</li>
+            <li>Provided career consultation to students, improving motivation and recommending educational solutions.</li>
+        </ul>
+    </section>
+    <section id="publications">
+        <h2>Publications</h2>
+        <ul>
+            <li><em>An Analysis of Factors Contributing to Variation in Student Performance in Higher Education</em> - Presented at IAFOR Asian Conference on Education, 2019</li>
+            <li><em>Wire and Fence</em> - Dar El Hafiz, Dubai-UAE, 2019</li>
+            <li><em>Educational Situations</em> - Dar El Hafiz, Dubai-UAE, 2020</li>
+            <li><em>Dealing with Adolescence</em> - Dar El Hafiz, Dubai-UAE, 2020</li>
+        </ul>
+    </section>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:aalrahl1976@gmail.com">aalrahl1976@gmail.com</a></p>
+        <p>Phone: +971-563560888</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Ahmed Al Rahl. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
